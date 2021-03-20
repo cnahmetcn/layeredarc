@@ -1,0 +1,11 @@
+C:\Projects\VS\LayerProject\LayerProject.Core\bin\Debug\net5.0\LayerProject.Core.deps.json
+C:\Projects\VS\LayerProject\LayerProject.Core\bin\Debug\net5.0\LayerProject.Core.dll
+C:\Projects\VS\LayerProject\LayerProject.Core\bin\Debug\net5.0\ref\LayerProject.Core.dll
+C:\Projects\VS\LayerProject\LayerProject.Core\bin\Debug\net5.0\LayerProject.Core.pdb
+C:\Projects\VS\LayerProject\LayerProject.Core\obj\Debug\net5.0\LayerProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\VS\LayerProject\LayerProject.Core\obj\Debug\net5.0\LayerProject.Core.AssemblyInfoInputs.cache
+C:\Projects\VS\LayerProject\LayerProject.Core\obj\Debug\net5.0\LayerProject.Core.AssemblyInfo.cs
+C:\Projects\VS\LayerProject\LayerProject.Core\obj\Debug\net5.0\LayerProject.Core.csproj.CoreCompileInputs.cache
+C:\Projects\VS\LayerProject\LayerProject.Core\obj\Debug\net5.0\LayerProject.Core.dll
+C:\Projects\VS\LayerProject\LayerProject.Core\obj\Debug\net5.0\ref\LayerProject.Core.dll
+C:\Projects\VS\LayerProject\LayerProject.Core\obj\Debug\net5.0\LayerProject.Core.pdb

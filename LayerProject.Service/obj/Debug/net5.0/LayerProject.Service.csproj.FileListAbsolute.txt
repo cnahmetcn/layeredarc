@@ -1,0 +1,17 @@
+C:\Projects\VS\LayerProject\LayerProject.Service\bin\Debug\net5.0\LayerProject.Service.deps.json
+C:\Projects\VS\LayerProject\LayerProject.Service\bin\Debug\net5.0\LayerProject.Service.dll
+C:\Projects\VS\LayerProject\LayerProject.Service\bin\Debug\net5.0\ref\LayerProject.Service.dll
+C:\Projects\VS\LayerProject\LayerProject.Service\bin\Debug\net5.0\LayerProject.Service.pdb
+C:\Projects\VS\LayerProject\LayerProject.Service\bin\Debug\net5.0\LayerProject.Core.dll
+C:\Projects\VS\LayerProject\LayerProject.Service\bin\Debug\net5.0\LayerProject.Data.dll
+C:\Projects\VS\LayerProject\LayerProject.Service\bin\Debug\net5.0\LayerProject.Core.pdb
+C:\Projects\VS\LayerProject\LayerProject.Service\bin\Debug\net5.0\LayerProject.Data.pdb
+C:\Projects\VS\LayerProject\LayerProject.Service\obj\Debug\net5.0\LayerProject.Service.csprojAssemblyReference.cache
+C:\Projects\VS\LayerProject\LayerProject.Service\obj\Debug\net5.0\LayerProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\VS\LayerProject\LayerProject.Service\obj\Debug\net5.0\LayerProject.Service.AssemblyInfoInputs.cache
+C:\Projects\VS\LayerProject\LayerProject.Service\obj\Debug\net5.0\LayerProject.Service.AssemblyInfo.cs
+C:\Projects\VS\LayerProject\LayerProject.Service\obj\Debug\net5.0\LayerProject.Service.csproj.CoreCompileInputs.cache
+C:\Projects\VS\LayerProject\LayerProject.Service\obj\Debug\net5.0\LayerProject.Service.csproj.CopyComplete
+C:\Projects\VS\LayerProject\LayerProject.Service\obj\Debug\net5.0\LayerProject.Service.dll
+C:\Projects\VS\LayerProject\LayerProject.Service\obj\Debug\net5.0\ref\LayerProject.Service.dll
+C:\Projects\VS\LayerProject\LayerProject.Service\obj\Debug\net5.0\LayerProject.Service.pdb
